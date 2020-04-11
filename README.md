@@ -12,7 +12,7 @@
 <p/>
 
 <p align="center">
-  <img align="center" src=".github/app.png.png" height="400px" />
+  <img align="center" src=".github/app.png" height="400px" />
 </p>
 
 
