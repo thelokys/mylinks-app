@@ -1,0 +1,15 @@
+{
+  "name": "mylinks-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thelokys/mylinks-app.git",
+  "author": "thelokys <ricardo.guidetti@gmail.comexit>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no teste specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
