@@ -38,7 +38,7 @@ Utilize o [yarn](https://classic.yarnpkg.com/lang/en/) para iniciar o projeto. D
 
 ## :computer: Tecnologias
   
-Tecnilogia utilizada:
+Tecnologia utilizada:
 - [Node.js](https://nodejs.org/en/)
 
 ---
