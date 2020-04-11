@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src=".github/logo.png" alt= "MyLinks" height="80"/>
+    <img src=".github/logo.svg" alt="MyLinks" height="80"/>
 </h1>
 
 <h4 align="center">
-   :rocket: O Produto possibilitar armazenar os seus links favoritos e visualizá-los. Conforme o seu cadastro.
+   :rocket: O Produto possibilita armazenar os seus links favoritos e visualizá-los.
 </h4>
  
 <h4/>
@@ -15,6 +15,19 @@
   <img align="center" src=".github/AppInterface.png" height="400px" />
 </p>
 
+
+## Utilização
+Utilize o [yarn](https://classic.yarnpkg.com/lang/en/) para iniciar o projeto
+
+Dentro da pasta `api/` execute o comando:
+
+`$ yarn api # subir api na porta 3000`
+
+E na pasta root do projeto, execute o comando:
+
+`$ yarn start # subir front na porta 5000`
+
+> Para mais informações verifique o `package.json`
 
 
 ## :computer: Tecnologias

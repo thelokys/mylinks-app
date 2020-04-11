@@ -11,6 +11,18 @@
     {
       "name": "Rocketseat",
       "url": "http://rocketseat.com.br"
+    },
+    {
+      "name": "Github",
+      "url": "http://github.com"
+    },
+    {
+      "name": "Google",
+      "url": "http://google.com"
+    },
+    {
+      "name": "RocketSeat",
+      "url": "http://rocketseat.com.br"
     }
   ]
 }
