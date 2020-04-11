@@ -16,7 +16,7 @@
 </p>
 
 
-## Utilização
+## :bulb: Utilização
 Utilize o [yarn](https://classic.yarnpkg.com/lang/en/) para iniciar o projeto
 
 `$ yarn api` para subir na porta 3000 api.
