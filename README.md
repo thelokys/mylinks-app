@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-   :rocket: O Produto possibilita armazenar os seus links favoritos e visualizá-los.
+   :books: O Produto possibilita armazenar os seus links favoritos e visualizá-los.
 </h4>
  
 <h4/>
@@ -24,7 +24,7 @@ git clone https://github.com/thelokys/mylinks-app.git # HTTPS
 ou
 git clone git@github.com:thelokys/mylinks-app.git # SSH
 ```
-## 
+## :rocket: Executando projeto
 
 Entre da pasta do projeto`cd mylinks-app/`
 
