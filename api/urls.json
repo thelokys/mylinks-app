@@ -1,16 +1,16 @@
 {
   "urls": [
     {
-      "name": "Rocketseat",
-      "url": "http://rocketseat.com.br"
-    },
-    {
-      "name": "Google",
-      "url": "http://google.com"
+      "name": "Github",
+      "url": "http://github.com"
     },
     {
       "name": "Discord",
       "url": "http://discord.com"
+    },
+    {
+      "name": "Rocketseat",
+      "url": "http://rocketseat.com.br"
     }
   ]
 }

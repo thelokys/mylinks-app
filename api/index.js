@@ -23,9 +23,8 @@ http.createServer( (req, res) => {
   res.setHeader('Content-Type','application/json')
 
   res.writeHead(200, {
-    'Access-Controll-Allow-Origin': '*'
+    'Access-Control-Allow-Origin': '*'
   })
-  res.write
 
   if(!name || !url)
     return res.end(JSON.stringify(data))
@@ -34,7 +33,8 @@ http.createServer( (req, res) => {
     data.urls = data.urls.filter(item => String(item.url) !== String(url))
     return writeFile((message) => res.end(message))
   }
-  data.urls.push({name, url})
+
+  data.urls.push({ name, url })
   return writeFile((message) => res.end(message))
 
 }).listen(3000, () => console.log('Api is running'))
