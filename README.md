@@ -19,13 +19,9 @@
 ## Utilização
 Utilize o [yarn](https://classic.yarnpkg.com/lang/en/) para iniciar o projeto
 
-Dentro da pasta `api/` execute o comando:
+`$ yarn api` para subir na porta 3000 api.
 
-`$ yarn api # subir api na porta 3000`
-
-E na pasta root do projeto, execute o comando:
-
-`$ yarn start # subir front na porta 5000`
+`$ yarn start` para subir na porta 5000 o front.
 
 > Para mais informações verifique o `package.json`
 
