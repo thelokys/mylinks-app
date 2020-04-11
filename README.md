@@ -16,15 +16,25 @@
 </p>
 
 
-## :bulb: Utilização
-Utilize o [yarn](https://classic.yarnpkg.com/lang/en/) para iniciar o projeto
+## :bulb: Instalação
+
+Abaixe o projeto com 
+```shell
+git clone https://github.com/thelokys/mylinks-app.git # HTTPS
+ou
+git clone git@github.com:thelokys/mylinks-app.git # SSH
+```
+## 
+
+Entre da pasta do projeto`cd mylinks-app/`
+
+Utilize o [yarn](https://classic.yarnpkg.com/lang/en/) para iniciar o projeto. Dentro da pasta execute `yarn install` para baixar as dependências (Só existe o [Nodemon](https://github.com/remy/nodemon/)).
 
 `$ yarn api` para subir na porta 3000 api.
 
 `$ yarn start` para subir na porta 5000 o front.
 
 > Para mais informações verifique o `package.json`
-
 
 ## :computer: Tecnologias
   
